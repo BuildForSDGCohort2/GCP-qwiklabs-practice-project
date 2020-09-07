@@ -6,5 +6,6 @@ Google Africa Developer Scholarship Phase II Project
     - [Recommend Products using ML with Cloud SQL and Dataproc](Screenshoots/Recommend-Products-using-ML-with-Cloud-SQL-and-Dataproc.png)
     - [Predict Visitor Purchases with a Classification Model with BigQuery ML](Screenshoots/Predict-Visitor-Purchases-with-a-Classification-Model-with-BigQuery-ML.png)
     - [Create a Streaming Data Pipeline for a Real-Time Dashboard with Cloud Dataflow](Screenshoots/Create-a-Streaming-Data-Pipeline-for-a-Real-Time-Dashboard-with-Cloud-Dataflow.png)
+    - [Classify Images with Pre-built ML Models using Cloud Vision API and AutoML](Screenshoots/Classify-Images-with-Pre-built-ML-Models-using-Cloud-Vision-API-and-AutoML.png)
 
 * Fundamentals
