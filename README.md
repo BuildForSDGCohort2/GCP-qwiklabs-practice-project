@@ -57,7 +57,7 @@ Bellow are sample of selected laboratories translated from web Console click, dr
 
 Instructions are based on first the laboratory name then step by step commands to be excuted in the Cloud Shell.
 
- ## Lab 1 - Google Cloud Fundamentals: Getting Started with Compute Engine
+ ## [Lab 1 - Google Cloud Fundamentals: Getting Started with Compute Engine](Compute-Engine.md)
 
 
 
